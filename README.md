@@ -1,6 +1,6 @@
-#***_what-i-learned-in-week-4_***
+# ***_what-i-learned-in-week-4_***
 
-##*_Booleans_* - represents one of two values: true or false.
+## *_Booleans_* - represents one of two values: true or false.
 It uses comparison operators such as :
 
 | operators   |    Description   | Example |
@@ -12,7 +12,7 @@ It uses comparison operators such as :
 >When using the === operator, equal booleans are not equal, because the === operator expects equality in both type and value.
 
 
-###**_Big comparison Operator Chart_**
+### **_Big comparison Operator Chart_**
 
 | Operator  | Description  | Comparing | Returns  |
 |---|---|---|---|
